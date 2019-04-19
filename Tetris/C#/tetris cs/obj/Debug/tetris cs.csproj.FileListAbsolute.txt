@@ -1,0 +1,10 @@
+C:\Users\snajem\Downloads\Tetris.Net\C#\tetris cs\bin\Debug\tetris cs.exe.config
+C:\Users\snajem\Downloads\Tetris.Net\C#\tetris cs\bin\Debug\tetris cs.exe
+C:\Users\snajem\Downloads\Tetris.Net\C#\tetris cs\bin\Debug\tetris cs.pdb
+C:\Users\snajem\Downloads\Tetris.Net\C#\tetris cs\obj\Debug\tetris cs.csprojAssemblyReference.cache
+C:\Users\snajem\Downloads\Tetris.Net\C#\tetris cs\obj\Debug\tetris_cs.Form1.resources
+C:\Users\snajem\Downloads\Tetris.Net\C#\tetris cs\obj\Debug\tetris_cs.Properties.Resources.resources
+C:\Users\snajem\Downloads\Tetris.Net\C#\tetris cs\obj\Debug\tetris cs.csproj.GenerateResource.cache
+C:\Users\snajem\Downloads\Tetris.Net\C#\tetris cs\obj\Debug\tetris cs.csproj.CoreCompileInputs.cache
+C:\Users\snajem\Downloads\Tetris.Net\C#\tetris cs\obj\Debug\tetris cs.exe
+C:\Users\snajem\Downloads\Tetris.Net\C#\tetris cs\obj\Debug\tetris cs.pdb
