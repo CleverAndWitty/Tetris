@@ -1,0 +1,50 @@
+\\umd-home.umd.umich.edu\snajem\Private\My Documents\GitHub\CIS297-Winter2019-CleverAndWitty\Tetris\Tetris\C#\LoadTetris\bin\AnyCPU\Debug\resources.pri
+\\umd-home.umd.umich.edu\snajem\Private\My Documents\GitHub\CIS297-Winter2019-CleverAndWitty\Tetris\Tetris\C#\LoadTetris\bin\AnyCPU\Debug\tetris cs\tetris cs.exe
+\\umd-home.umd.umich.edu\snajem\Private\My Documents\GitHub\CIS297-Winter2019-CleverAndWitty\Tetris\Tetris\C#\LoadTetris\bin\AnyCPU\Debug\tetris cs\tetris cs.exe.config
+\\umd-home.umd.umich.edu\snajem\Private\My Documents\GitHub\CIS297-Winter2019-CleverAndWitty\Tetris\Tetris\C#\LoadTetris\bin\AnyCPU\Debug\tetris cs\tetris cs.pdb
+\\umd-home.umd.umich.edu\snajem\Private\My Documents\GitHub\CIS297-Winter2019-CleverAndWitty\Tetris\Tetris\C#\LoadTetris\bin\AnyCPU\Debug\AppxManifest.xml
+\\umd-home.umd.umich.edu\snajem\Private\My Documents\GitHub\CIS297-Winter2019-CleverAndWitty\Tetris\Tetris\C#\LoadTetris\bin\AnyCPU\Debug\LoadTetris.build.appxrecipe
+\\umd-home.umd.umich.edu\snajem\Private\My Documents\GitHub\CIS297-Winter2019-CleverAndWitty\Tetris\Tetris\C#\LoadTetris\obj\Debug\LoadTetris.wapprojAssemblyReference.cache
+\\umd-home.umd.umich.edu\snajem\Private\My Documents\GitHub\CIS297-Winter2019-CleverAndWitty\Tetris\Tetris\C#\LoadTetris\obj\Debug\LoadTetris.wapproj.CoreCompileInputs.cache
+\\umd-home.umd.umich.edu\snajem\Private\My Documents\GitHub\CIS297-Winter2019-CleverAndWitty\Tetris\Tetris\C#\LoadTetris\obj\Debug\priconfig.xml
+\\umd-home.umd.umich.edu\snajem\Private\My Documents\GitHub\CIS297-Winter2019-CleverAndWitty\Tetris\Tetris\C#\LoadTetris\obj\Debug\priconfig.xml.intermediate
+\\umd-home.umd.umich.edu\snajem\Private\My Documents\GitHub\CIS297-Winter2019-CleverAndWitty\Tetris\Tetris\C#\LoadTetris\obj\Debug\unfiltered.layout.resfiles
+\\umd-home.umd.umich.edu\snajem\Private\My Documents\GitHub\CIS297-Winter2019-CleverAndWitty\Tetris\Tetris\C#\LoadTetris\obj\Debug\unfiltered.layout.resfiles.intermediate
+\\umd-home.umd.umich.edu\snajem\Private\My Documents\GitHub\CIS297-Winter2019-CleverAndWitty\Tetris\Tetris\C#\LoadTetris\obj\Debug\filtered.layout.resfiles
+\\umd-home.umd.umich.edu\snajem\Private\My Documents\GitHub\CIS297-Winter2019-CleverAndWitty\Tetris\Tetris\C#\LoadTetris\obj\Debug\filtered.layout.resfiles.intermediate
+\\umd-home.umd.umich.edu\snajem\Private\My Documents\GitHub\CIS297-Winter2019-CleverAndWitty\Tetris\Tetris\C#\LoadTetris\obj\Debug\excluded.layout.resfiles
+\\umd-home.umd.umich.edu\snajem\Private\My Documents\GitHub\CIS297-Winter2019-CleverAndWitty\Tetris\Tetris\C#\LoadTetris\obj\Debug\excluded.layout.resfiles.intermediate
+\\umd-home.umd.umich.edu\snajem\Private\My Documents\GitHub\CIS297-Winter2019-CleverAndWitty\Tetris\Tetris\C#\LoadTetris\obj\Debug\resources.resfiles
+\\umd-home.umd.umich.edu\snajem\Private\My Documents\GitHub\CIS297-Winter2019-CleverAndWitty\Tetris\Tetris\C#\LoadTetris\obj\Debug\resources.resfiles.intermediate
+\\umd-home.umd.umich.edu\snajem\Private\My Documents\GitHub\CIS297-Winter2019-CleverAndWitty\Tetris\Tetris\C#\LoadTetris\obj\Debug\pri.resfiles
+\\umd-home.umd.umich.edu\snajem\Private\My Documents\GitHub\CIS297-Winter2019-CleverAndWitty\Tetris\Tetris\C#\LoadTetris\obj\Debug\pri.resfiles.intermediate
+\\umd-home.umd.umich.edu\snajem\Private\My Documents\GitHub\CIS297-Winter2019-CleverAndWitty\Tetris\Tetris\C#\LoadTetris\obj\Debug\qualifiers.txt
+\\umd-home.umd.umich.edu\snajem\Private\My Documents\GitHub\CIS297-Winter2019-CleverAndWitty\Tetris\Tetris\C#\LoadTetris\obj\Debug\qualifiers.txt.intermediate
+\\umd-home.umd.umich.edu\snajem\Private\My Documents\GitHub\CIS297-Winter2019-CleverAndWitty\Tetris\Tetris\C#\LoadTetris\obj\Debug\MultipleQualifiersPerDimensionFound.txt
+\\umd-home.umd.umich.edu\snajem\Private\My Documents\GitHub\CIS297-Winter2019-CleverAndWitty\Tetris\Tetris\C#\LoadTetris\obj\Debug\ProjectArchitectures.txt
+\\umd-home.umd.umich.edu\snajem\Private\My Documents\GitHub\CIS297-Winter2019-CleverAndWitty\Tetris\Tetris\C#\LoadTetris\obj\Debug\LoadTetris.wapproj.LastBuild.txt
+C:\temp\Tetris\Tetris\C#\LoadTetris\bin\AnyCPU\Debug\resources.pri
+C:\temp\Tetris\Tetris\C#\LoadTetris\bin\AnyCPU\Debug\tetris cs\tetris cs.exe
+C:\temp\Tetris\Tetris\C#\LoadTetris\bin\AnyCPU\Debug\tetris cs\tetris cs.exe.config
+C:\temp\Tetris\Tetris\C#\LoadTetris\bin\AnyCPU\Debug\tetris cs\tetris cs.pdb
+C:\temp\Tetris\Tetris\C#\LoadTetris\bin\AnyCPU\Debug\AppxManifest.xml
+C:\temp\Tetris\Tetris\C#\LoadTetris\bin\AnyCPU\Debug\LoadTetris.build.appxrecipe
+C:\temp\Tetris\Tetris\C#\LoadTetris\obj\Debug\LoadTetris.wapprojAssemblyReference.cache
+C:\temp\Tetris\Tetris\C#\LoadTetris\obj\Debug\LoadTetris.wapproj.CoreCompileInputs.cache
+C:\temp\Tetris\Tetris\C#\LoadTetris\obj\Debug\priconfig.xml
+C:\temp\Tetris\Tetris\C#\LoadTetris\obj\Debug\priconfig.xml.intermediate
+C:\temp\Tetris\Tetris\C#\LoadTetris\obj\Debug\unfiltered.layout.resfiles
+C:\temp\Tetris\Tetris\C#\LoadTetris\obj\Debug\unfiltered.layout.resfiles.intermediate
+C:\temp\Tetris\Tetris\C#\LoadTetris\obj\Debug\filtered.layout.resfiles
+C:\temp\Tetris\Tetris\C#\LoadTetris\obj\Debug\filtered.layout.resfiles.intermediate
+C:\temp\Tetris\Tetris\C#\LoadTetris\obj\Debug\excluded.layout.resfiles
+C:\temp\Tetris\Tetris\C#\LoadTetris\obj\Debug\excluded.layout.resfiles.intermediate
+C:\temp\Tetris\Tetris\C#\LoadTetris\obj\Debug\resources.resfiles
+C:\temp\Tetris\Tetris\C#\LoadTetris\obj\Debug\resources.resfiles.intermediate
+C:\temp\Tetris\Tetris\C#\LoadTetris\obj\Debug\pri.resfiles
+C:\temp\Tetris\Tetris\C#\LoadTetris\obj\Debug\pri.resfiles.intermediate
+C:\temp\Tetris\Tetris\C#\LoadTetris\obj\Debug\qualifiers.txt
+C:\temp\Tetris\Tetris\C#\LoadTetris\obj\Debug\qualifiers.txt.intermediate
+C:\temp\Tetris\Tetris\C#\LoadTetris\obj\Debug\MultipleQualifiersPerDimensionFound.txt
+C:\temp\Tetris\Tetris\C#\LoadTetris\obj\Debug\ProjectArchitectures.txt
+C:\temp\Tetris\Tetris\C#\LoadTetris\obj\Debug\LoadTetris.wapproj.LastBuild.txt

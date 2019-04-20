@@ -11,7 +11,6 @@ C:\Users\snajem\Downloads\Tetris.Net\C#\tetris cs\obj\Debug\tetris cs.pdb
 \\umd-home.umd.umich.edu\snajem\Private\My Documents\GitHub\CIS297-Winter2019-CleverAndWitty\Tetris\Tetris\C#\tetris cs\bin\Debug\tetris cs.exe.config
 \\umd-home.umd.umich.edu\snajem\Private\My Documents\GitHub\CIS297-Winter2019-CleverAndWitty\Tetris\Tetris\C#\tetris cs\bin\Debug\tetris cs.exe
 \\umd-home.umd.umich.edu\snajem\Private\My Documents\GitHub\CIS297-Winter2019-CleverAndWitty\Tetris\Tetris\C#\tetris cs\bin\Debug\tetris cs.pdb
-\\umd-home.umd.umich.edu\snajem\Private\My Documents\GitHub\CIS297-Winter2019-CleverAndWitty\Tetris\Tetris\C#\tetris cs\obj\Debug\tetris cs.csprojAssemblyReference.cache
 \\umd-home.umd.umich.edu\snajem\Private\My Documents\GitHub\CIS297-Winter2019-CleverAndWitty\Tetris\Tetris\C#\tetris cs\obj\Debug\tetris_cs.Form1.resources
 \\umd-home.umd.umich.edu\snajem\Private\My Documents\GitHub\CIS297-Winter2019-CleverAndWitty\Tetris\Tetris\C#\tetris cs\obj\Debug\tetris_cs.Properties.Resources.resources
 \\umd-home.umd.umich.edu\snajem\Private\My Documents\GitHub\CIS297-Winter2019-CleverAndWitty\Tetris\Tetris\C#\tetris cs\obj\Debug\tetris cs.csproj.GenerateResource.cache

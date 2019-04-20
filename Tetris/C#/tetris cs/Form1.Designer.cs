@@ -33,10 +33,10 @@
             this.Button1 = new System.Windows.Forms.Button();
             this.lblScore = new System.Windows.Forms.Label();
             this.Label1 = new System.Windows.Forms.Label();
-            this.game = new tetris_cs.game();
             this.shapePreview1 = new tetris_cs.ShapePreview();
-            ((System.ComponentModel.ISupportInitialize)(this.game)).BeginInit();
+            this.game = new tetris_cs.game();
             ((System.ComponentModel.ISupportInitialize)(this.shapePreview1)).BeginInit();
+            ((System.ComponentModel.ISupportInitialize)(this.game)).BeginInit();
             this.SuspendLayout();
             // 
             // Button1
@@ -72,30 +72,6 @@
             this.Label1.TabIndex = 5;
             this.Label1.Text = "Score:";
             // 
-            // game
-            // 
-            this.game.AllowUserToAddRows = false;
-            this.game.AllowUserToDeleteRows = false;
-            this.game.AllowUserToResizeColumns = false;
-            this.game.AllowUserToResizeRows = false;
-            this.game.BackgroundColor = System.Drawing.Color.Black;
-            this.game.ColumnHeadersHeightSizeMode = System.Windows.Forms.DataGridViewColumnHeadersHeightSizeMode.AutoSize;
-            this.game.ColumnHeadersVisible = false;
-            dataGridViewCellStyle1.Alignment = System.Windows.Forms.DataGridViewContentAlignment.MiddleLeft;
-            dataGridViewCellStyle1.BackColor = System.Drawing.Color.Black;
-            dataGridViewCellStyle1.Font = new System.Drawing.Font("Microsoft Sans Serif", 8.25F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
-            dataGridViewCellStyle1.ForeColor = System.Drawing.SystemColors.ControlText;
-            dataGridViewCellStyle1.SelectionBackColor = System.Drawing.SystemColors.Highlight;
-            dataGridViewCellStyle1.SelectionForeColor = System.Drawing.SystemColors.HighlightText;
-            dataGridViewCellStyle1.WrapMode = System.Windows.Forms.DataGridViewTriState.False;
-            this.game.DefaultCellStyle = dataGridViewCellStyle1;
-            this.game.GridColor = System.Drawing.Color.Black;
-            this.game.Location = new System.Drawing.Point(62, 62);
-            this.game.Name = "game";
-            this.game.RowHeadersVisible = false;
-            this.game.Size = new System.Drawing.Size(303, 453);
-            this.game.TabIndex = 0;
-            // 
             // shapePreview1
             // 
             this.shapePreview1.AllowUserToAddRows = false;
@@ -106,28 +82,52 @@
             this.shapePreview1.BorderStyle = System.Windows.Forms.BorderStyle.None;
             this.shapePreview1.ColumnHeadersHeightSizeMode = System.Windows.Forms.DataGridViewColumnHeadersHeightSizeMode.AutoSize;
             this.shapePreview1.ColumnHeadersVisible = false;
+            dataGridViewCellStyle1.Alignment = System.Windows.Forms.DataGridViewContentAlignment.MiddleLeft;
+            dataGridViewCellStyle1.BackColor = System.Drawing.Color.Black;
+            dataGridViewCellStyle1.Font = new System.Drawing.Font("Microsoft Sans Serif", 8.25F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
+            dataGridViewCellStyle1.ForeColor = System.Drawing.SystemColors.ControlText;
+            dataGridViewCellStyle1.SelectionBackColor = System.Drawing.SystemColors.Highlight;
+            dataGridViewCellStyle1.SelectionForeColor = System.Drawing.SystemColors.HighlightText;
+            dataGridViewCellStyle1.WrapMode = System.Windows.Forms.DataGridViewTriState.False;
+            this.shapePreview1.DefaultCellStyle = dataGridViewCellStyle1;
+            this.shapePreview1.GridColor = System.Drawing.Color.Black;
+            this.shapePreview1.Location = new System.Drawing.Point(383, 394);
+            this.shapePreview1.Name = "shapePreview1";
+            this.shapePreview1.RowHeadersVisible = false;
+            this.shapePreview1.Size = new System.Drawing.Size(91, 91);
+            this.shapePreview1.TabIndex = 0;
+            // 
+            // game
+            // 
+            this.game.AllowUserToAddRows = false;
+            this.game.AllowUserToDeleteRows = false;
+            this.game.AllowUserToResizeColumns = false;
+            this.game.AllowUserToResizeRows = false;
+            this.game.BackgroundColor = System.Drawing.Color.White;
+            this.game.ColumnHeadersHeightSizeMode = System.Windows.Forms.DataGridViewColumnHeadersHeightSizeMode.AutoSize;
+            this.game.ColumnHeadersVisible = false;
             dataGridViewCellStyle2.Alignment = System.Windows.Forms.DataGridViewContentAlignment.MiddleLeft;
             dataGridViewCellStyle2.BackColor = System.Drawing.Color.Black;
-            dataGridViewCellStyle2.Font = new System.Drawing.Font("Microsoft Sans Serif", 8.25F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, (byte)0);
+            dataGridViewCellStyle2.Font = new System.Drawing.Font("Microsoft Sans Serif", 8.25F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
             dataGridViewCellStyle2.ForeColor = System.Drawing.SystemColors.ControlText;
             dataGridViewCellStyle2.SelectionBackColor = System.Drawing.SystemColors.Highlight;
             dataGridViewCellStyle2.SelectionForeColor = System.Drawing.SystemColors.HighlightText;
             dataGridViewCellStyle2.WrapMode = System.Windows.Forms.DataGridViewTriState.False;
-            this.shapePreview1.DefaultCellStyle = dataGridViewCellStyle2;
-            this.shapePreview1.GridColor = System.Drawing.Color.Black;
-            this.shapePreview1.Location = new System.Drawing.Point(383, 394);
-            this.shapePreview1.Name = "ShapePreview1";
-            this.shapePreview1.RowHeadersVisible = false;
-            this.shapePreview1.Size = new System.Drawing.Size(91, 91);
-            //this.ShapePreview1.TabIndex = 1;
-
+            this.game.DefaultCellStyle = dataGridViewCellStyle2;
+            this.game.GridColor = System.Drawing.Color.Black;
+            this.game.Location = new System.Drawing.Point(62, 62);
+            this.game.Name = "game";
+            this.game.RowHeadersVisible = false;
+            this.game.Size = new System.Drawing.Size(303, 453);
+            this.game.TabIndex = 0;
             // 
             // Form1
             // 
             this.AutoScaleDimensions = new System.Drawing.SizeF(6F, 13F);
             this.AutoScaleMode = System.Windows.Forms.AutoScaleMode.Font;
-            this.BackColor = System.Drawing.Color.Black;
+            this.BackColor = System.Drawing.Color.BlanchedAlmond;
             this.ClientSize = new System.Drawing.Size(551, 561);
+            this.ControlBox = false;
             this.Controls.Add(this.shapePreview1);
             this.Controls.Add(this.game);
             this.Controls.Add(this.Button1);
@@ -140,8 +140,8 @@
             this.StartPosition = System.Windows.Forms.FormStartPosition.CenterScreen;
             this.Text = "tetris cs";
             this.Load += new System.EventHandler(this.Form1_Load);
-            ((System.ComponentModel.ISupportInitialize)(this.game)).EndInit();
             ((System.ComponentModel.ISupportInitialize)(this.shapePreview1)).EndInit();
+            ((System.ComponentModel.ISupportInitialize)(this.game)).EndInit();
             this.ResumeLayout(false);
             this.PerformLayout();
 

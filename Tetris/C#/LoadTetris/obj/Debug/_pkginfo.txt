@@ -1,0 +1,1 @@
+C:\temp\Tetris\Tetris\C#\LoadTetris\AppPackages\LoadTetris_1.0.1.0_Debug_Test\LoadTetris_1.0.1.0_AnyCPU_Debug.appxbundle
